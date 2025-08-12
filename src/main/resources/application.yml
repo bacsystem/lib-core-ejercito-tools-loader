@@ -1,0 +1,8 @@
+spring:
+    application:
+        name: lib-core-ejercito-tools-loader
+
+microservice:
+    messages:
+        path: "/json/message.json"
+        index: "01"

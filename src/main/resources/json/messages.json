@@ -1,0 +1,158 @@
+[
+    {
+        "code": "000",
+        "value": "200.xx.000",
+        "message": "Operación satisfactoria",
+        "status": 200
+    },
+    {
+        "code": "001",
+        "value": "201.xx.001",
+        "message": "Se creó un nuevo registro con éxito",
+        "status": 201
+    },
+    {
+        "code": "002",
+        "value": "400.xx.002",
+        "message": "Id de la entidad no válido",
+        "status": 400
+    },
+    {
+        "code": "003",
+        "value": "400.xx.003",
+        "message": "UuId de la entidad no válido",
+        "status": 400
+    },
+    {
+        "code": "004",
+        "value": "404.xx.004",
+        "message": "La entidad no se encuentra en la base de datos",
+        "status": 404
+    },
+    {
+        "code": "005",
+        "value": "400.xx.005",
+        "message": "Parámetros no válidos para ejecutar el proceso de solicitud al servidor",
+        "status": 400
+    },
+    {
+        "code": "006",
+        "value": "401.xx.006",
+        "message": "La firma JWT no coincide con la firma calculada localmente o JWT expiró",
+        "status": 401
+    },
+    {
+        "code": "007",
+        "value": "401.xx.007",
+        "message": "Error 401 no autorizado, acceso denegado",
+        "status": 401
+    },
+    {
+        "code": "008",
+        "value": "400.xx.008",
+        "message": "Solicitud de autenticación con parámetros no es válida",
+        "status": 400
+    },
+    {
+        "code": "009",
+        "value": "400.xx.009",
+        "message": "Parámetros no válidos para ejecutar el proceso de respuesta del servidor",
+        "status": 400
+    },
+    {
+        "code": "010",
+        "value": "404.xx.010",
+        "message": "Extensión no válida, archivo no encontrado en el catálogo",
+        "status": 404
+    },
+    {
+        "code": "011",
+        "value": "500.xx.011",
+        "message": "Proceso no válido para guardar el documento en la base de datos",
+        "status": 500
+    },
+    {
+        "code": "012",
+        "value": "500.xx.012",
+        "message": "Carga de proceso no válida o serialización de configuración json",
+        "status": 500
+    },
+    {
+        "code": "013",
+        "value": "404.xx.013",
+        "message": "Registro de tipo no encontrado en la base de datos",
+        "status": 404
+    },
+    {
+        "code": "014",
+        "value": "404.xx.014",
+        "message": "Periodo no encontrado en la base de datos",
+        "status": 404
+    },
+    {
+        "code": "015",
+        "value": "404.xx.015",
+        "message": "Configuración de la unidad no encontrada en la base de datos",
+        "status": 404
+    },
+    {
+        "code": "016",
+        "value": "404.xx.016",
+        "message": "Unidad no encontrada en la base de datos",
+        "status": 404
+    },
+    {
+        "code": "017",
+        "value": "500.xx.017",
+        "message": "Error al crear un libro de Excel en el proceso",
+        "status": 500
+    },
+    {
+        "code": "018",
+        "value": "404.xx.018",
+        "message": "Configuración de excel no encontrada",
+        "status": 404
+    },
+    {
+        "code": "019",
+        "value": "500.xx.019",
+        "message": "Error al leer el libro de Excel en el proceso",
+        "status": 500
+    },
+    {
+        "code": "020",
+        "value": "500.xx.020",
+        "message": "Error al eliminar el libro de Excel en el proceso",
+        "status": 500
+    },
+    {
+        "code": "021",
+        "value": "500.xx.021",
+        "message": "Proceso no válido para guardar datos estadísticos en la base de datos",
+        "status": 500
+    },
+    {
+        "code": "022",
+        "value": "404.xx.022",
+        "message": "Persona no encontrada en la base de datos",
+        "status": 404
+    },
+    {
+        "code": "023",
+        "value": "400.xx.023",
+        "message": "El usuario ya se encuentro en la base de datos",
+        "status": 400
+    },
+    {
+        "code": "024",
+        "value": "400.xx.024",
+        "message": "Code de la entidad no válido",
+        "status": 400
+    },
+    {
+        "code": "999",
+        "value": "500.xx.999",
+        "message": "Error Interno del Servidor",
+        "status": 500
+    }
+]
